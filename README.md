@@ -1,2 +1,3 @@
 # minecraft-npc-script
-使用npc脚本做的特技
+使用customnpc脚本做的特技
+javascript
